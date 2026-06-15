@@ -1,0 +1,14 @@
+baseURL = "https://sheetanshuprasad.github.io/"
+languageCode = "en-us"
+title = "Sound Progression"
+theme = "PaperMod"
+
+[pagination]
+pagerSize = 10
+
+[params]
+description = "Learn Music. Build a Career."
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
