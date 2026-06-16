@@ -3,6 +3,9 @@ date = '2026-06-15T22:09:46+05:30'
 draft = false
 title = 'How Mix Engineers Get Clients'
 
+categories = ["Income & Freelancing", "Mixing"]
+tags = ["mixing", "clients", "freelancing", "audio-engineering"]
+
 +++
 
 
