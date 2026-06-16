@@ -48,6 +48,8 @@ A mix engineer helps balance instruments, improve clarity, and make songs sound 
 
 Many producers eventually add mixing services as a separate revenue stream.
 
+If you're interested in offering mixing services, read our guide on [How to Get Your First Mixing Client](/posts/how-to-get-your-first-mixing-client/).
+
 Income Source #3: Mastering Services
 
 Mastering prepares music for release on streaming platforms and commercial distribution.
@@ -135,6 +137,8 @@ Focus on:
 - Building relationships
 
 A strong reputation often leads to referrals and repeat business.
+
+Building long-term relationships is essential. Learn more in [How Producers Get Repeat Clients](/posts/how-producers-get-repeat-clients/).
 
 Final Thoughts
 
