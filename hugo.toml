@@ -13,6 +13,11 @@ ShowShareButtons = true
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
 
+[params.profileMode]
+enabled = true
+title = "Sound Progression"
+subtitle = "Learn Music. Build a Career. Helping producers, mix engineers and mastering engineers build real-world skills and income."
+
 [menu]
 
   [[menu.main]]
