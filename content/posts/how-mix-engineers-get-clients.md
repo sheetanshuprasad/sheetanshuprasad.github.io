@@ -18,5 +18,9 @@ The reality is that referrals, networking and repeat clients generate most of th
 
 
 
-This is the first article on Sound Progression.
+## Related Articles
+
+Learn how to land your first client in [How to Get Your First Mixing Client](/posts/how-to-get-your-first-mixing-client/).
+
+Discover how to keep clients coming back in [How Producers Get Repeat Clients](/posts/how-producers-get-repeat-clients/).
 
