@@ -18,6 +18,10 @@ enabled = true
 title = "Sound Progression"
 subtitle = "Learn Music. Build a Career. Helping producers, mix engineers and mastering engineers build real-world skills and income."
 
+[[params.profileMode.buttons]]
+name = "Latest Articles"
+url = "/posts/"
+
 [menu]
 
   [[menu.main]]
