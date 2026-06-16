@@ -8,6 +8,7 @@ tags = ["mixing", "clients", "freelancing", "audio-engineering"]
 
 +++
 
+# How Mix Engineer Get CLients
 
 
 Most beginners think mixing clients come from social media followers.
