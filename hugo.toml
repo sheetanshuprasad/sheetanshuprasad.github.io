@@ -31,6 +31,12 @@ url = "/posts/"
   weight = 10
 
   [[menu.main]]
+  identifier = "author"
+  name = "Author"
+  url = "/about-the-author/"
+  weight = 15
+  
+  [[menu.main]]
   identifier = "contact"
   name = "Contact"
   url = "/contact/"
