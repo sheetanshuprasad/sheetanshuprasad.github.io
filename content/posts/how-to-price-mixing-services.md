@@ -6,13 +6,13 @@ categories = ["Mixing", "Income & Freelancing"]
 tags = ["mixing", "pricing", "clients", "freelancing"]
 +++
 
-How to Price Mixing Services
+# How to Price Mixing Services
 
 One of the most difficult decisions for new mix engineers is deciding how much to charge.
 
 Charge too little and clients may not value your work. Charge too much and you may struggle to attract projects. Finding the right balance is an important part of building a successful mixing business.
 
-There Is No Universal Price
+## There Is No Universal Price
 
 Mixing rates vary depending on:
 
@@ -24,7 +24,7 @@ Mixing rates vary depending on:
 
 Two engineers can charge very different prices and still be successful.
 
-Start With Your Current Skill Level
+## Start With Your Current Skill Level
 
 When you're new, focus on building trust and experience.
 
@@ -37,7 +37,7 @@ Many beginners start with lower rates while they build:
 
 The goal is to gain experience without undervaluing your work.
 
-Consider Charging Per Song
+## Consider Charging Per Song
 
 Per-song pricing is simple for both you and the client.
 
@@ -49,7 +49,7 @@ Advantages include:
 
 Many independent artists prefer straightforward pricing.
 
-Offer Packages
+## Offer Packages
 
 Packages can increase project value.
 
@@ -62,7 +62,7 @@ Examples:
 
 Packages also make it easier for clients to choose the right service.
 
-Factor in Revisions
+## Factor in Revisions
 
 Revisions take time.
 
@@ -74,7 +74,7 @@ Clearly define:
 
 Setting expectations early can prevent misunderstandings.
 
-Increase Prices Gradually
+## Increase Prices Gradually
 
 Many engineers keep beginner rates for too long.
 
@@ -87,7 +87,7 @@ As you gain:
 
 your rates should increase accordingly.
 
-Focus on Value
+## Focus on Value
 
 Clients are not only paying for a technical mix.
 
@@ -100,7 +100,7 @@ They are also paying for:
 
 These factors often influence hiring decisions more than price alone.
 
-Final Thoughts
+### Final Thoughts
 
 Pricing mixing services is a skill that improves with experience.
 
