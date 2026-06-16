@@ -6,13 +6,13 @@ categories = ["Mixing", "Income & Freelancing"]
 tags = ["mixing", "clients", "freelancing", "audio-engineering"]
 +++
 
-How to Get Your First Mixing Client
+# How to Get Your First Mixing Client
 
 One of the biggest challenges for new mix engineers is getting that first paying client.
 
 Most people spend months improving their technical skills but never learn how to find actual work. The truth is that getting clients is often more about trust, communication, and consistency than perfect mixes.
 
-Build a Small Portfolio First
+## Build a Small Portfolio First
 
 Before approaching potential clients, create a portfolio of your work.
 
@@ -24,7 +24,7 @@ If you don't have clients yet, mix:
 
 Potential clients want proof that you can deliver results.
 
-Start With Your Existing Network
+## Start With Your Existing Network
 
 Many engineers overlook the easiest place to find work: people they already know.
 
@@ -38,7 +38,7 @@ Reach out to:
 
 Your first client often comes from someone already familiar with you.
 
-Offer Free or Low-Cost Trial Mixes
+## Offer Free or Low-Cost Trial Mixes
 
 Early in your career, the goal is not maximum profit.
 
@@ -51,7 +51,7 @@ The goal is:
 
 A few successful projects can generate referrals later.
 
-Join Music Communities
+## Join Music Communities
 
 Many opportunities come from being active in communities.
 
@@ -64,7 +64,7 @@ Consider:
 
 Focus on helping people instead of immediately selling your services.
 
-Deliver a Great Experience
+## Deliver a Great Experience
 
 Clients remember more than the final mix.
 
@@ -77,13 +77,13 @@ They also remember:
 
 A good experience often leads to repeat business.
 
-Ask for Referrals
+## Ask for Referrals
 
 After a successful project, ask satisfied clients whether they know someone else who may need mixing services.
 
 Referrals are one of the most powerful ways to grow a freelance audio business.
 
-Final Thoughts
+### Final Thoughts
 
 Getting your first mixing client is usually harder than getting your tenth.
 
