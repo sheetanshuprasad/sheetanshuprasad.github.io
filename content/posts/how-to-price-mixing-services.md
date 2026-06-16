@@ -106,10 +106,10 @@ Pricing mixing services is a skill that improves with experience.
 
 Start with reasonable rates, provide excellent service, and increase your prices as your reputation grows.
 
-Related Articles
+## Related Articles
 
-Learn how to land your first project in "How to Get Your First Mixing Client" (/posts/how-to-get-your-first-mixing-client/).
+Learn how to land your first project in ["How to Get Your First Mixing Client"](/posts/how-to-get-your-first-mixing-client/).
 
-For beginner pricing guidance, read "How Much Should a Beginner Mix Engineer Charge?" (/posts/how-much-should-a-beginner-mix-engineer-charge/).
+For beginner pricing guidance, read ["How Much Should a Beginner Mix Engineer Charge?"](/posts/how-much-should-a-beginner-mix-engineer-charge/).
 
-See how professionals attract opportunities in "How Mix Engineers Get Clients" (/posts/how-mix-engineers-get-clients/).
+See how professionals attract opportunities in ["How Mix Engineers Get Clients"](/posts/how-mix-engineers-get-clients/).
