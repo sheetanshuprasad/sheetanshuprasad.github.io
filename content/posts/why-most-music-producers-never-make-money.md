@@ -1,7 +1,7 @@
 +++
 title = "Why Most Music Producers Never Make Money"
 draft = false
-cover = { image = "/images/why-most-music-producers-never-make-money.png" }
+cover = { image = "/images/why-most-producers-never-make-money.png" }
 
 categories = ["Income & Freelancing", "Music Production"]
 tags = ["music-production", "income", "career", "freelancing"]
