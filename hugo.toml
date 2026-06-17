@@ -21,11 +21,19 @@ label = { text = "Sound Progression", icon = "/logoo.png", iconHeight = 35 }
 [params.profileMode]
 enabled = true
 title = "Sound Progression"
-subtitle = "Learn Music. Build a Career. Helping producers, mix engineers and mastering engineers build real-world skills and income."
+subtitle = "Music Production, Mixing & Mastering, Freelancing, Home Studios, and Real-World Career Advice for Modern Music Creators."
 
 [[params.profileMode.buttons]]
 name = "Latest Articles"
 url = "/posts/"
+
+[[params.profileMode.buttons]]
+name = "About"
+url = "/about/"
+
+[[params.profileMode.buttons]]
+name = "Categories"
+url = "/categories/"
 
 [menu]
 
