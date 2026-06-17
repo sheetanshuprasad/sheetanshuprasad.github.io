@@ -58,3 +58,7 @@ url = "/posts/"
   name = "Categories"
   url = "/categories/"
   weight = 40
+
+[params.homeInfoParams]
+Title = "Learn Music. Build a Career."
+Content = "Music Production, Mixing, Mastering, Freelancing, Home Studios, and Real-World Music Career Advice."
