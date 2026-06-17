@@ -12,6 +12,7 @@ ShowReadingTime = true
 ShowShareButtons = true
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
+label = { text = "Sound Progression", icon = "/logoo.png", iconHeight = 35 }
 
 [params.profileMode]
 enabled = true
