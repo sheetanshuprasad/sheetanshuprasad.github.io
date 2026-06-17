@@ -1,6 +1,7 @@
 
 +++
 title = "The Biggest Mistake Beginner Mix Engineers Make"
+date = "2026-06-18"
 draft = false
 
 categories = ["Mixing & Mastering"]
