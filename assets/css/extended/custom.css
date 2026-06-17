@@ -1,9 +1,9 @@
 .profile .buttons .button {
-    background: linear-gradient(135deg, #4f46e5, #a855f7);
-    color: white;
+    background: #2563eb;
+    color: white !important;
     border: none;
 }
 
 .profile .buttons .button:hover {
-    opacity: 0.9;
+    background: #1d4ed8;
 }
