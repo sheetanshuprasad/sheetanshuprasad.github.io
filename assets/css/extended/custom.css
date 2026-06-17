@@ -1,9 +1,9 @@
 .profile .buttons .button {
-    background: #2563eb;
+    background: #0a66c2;
     color: white !important;
     border: none;
 }
 
 .profile .buttons .button:hover {
-    background: #1d4ed8;
+    background: #004182;
 }
