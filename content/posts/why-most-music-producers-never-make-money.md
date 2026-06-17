@@ -1,13 +1,12 @@
 +++
 title = "Why Most Music Producers Never Make Money"
 draft = false
-cover = { image = "/static/images/why-most-producers-never-make-money.png" }
+cover = { image = "/images/why-most-producers-never-make-money.png" }
 
 categories = ["Income & Freelancing", "Music Production"]
 tags = ["music-production", "income", "career", "freelancing"]
 +++
 
-# Why Most Music Producers Never Make Money
 
 Many aspiring music producers dream of turning their passion into a full-time income. Unfortunately, most never reach that point.
 
