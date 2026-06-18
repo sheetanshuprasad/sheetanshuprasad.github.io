@@ -7,7 +7,6 @@ categories = ["Income & Freelancing", "Music Production"]
 tags = ["music-production", "income", "career", "freelancing"]
 +++
 
-# Can You Make a Living as a Music Producer?
 
 Many aspiring producers dream of turning music into a full-time career. The good news is that it is possible.
 
