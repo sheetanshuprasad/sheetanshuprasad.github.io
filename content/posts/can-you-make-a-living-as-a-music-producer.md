@@ -73,6 +73,6 @@ The producers who survive long term treat music as both an art and a profession.
 
 ## Related Articles
 
-- "Why Most Music Producers Never Make Money" (/posts/why-most-music-producers-never-make-money/)
-- "How Mix Engineers Get Clients" (/posts/how-mix-engineers-get-clients/)
-- "The Biggest Mistake Beginner Mix Engineers Make" (/posts/biggest-mistake-beginner-mix-engineers-make/)
+- ["Why Most Music Producers Never Make Money"](/posts/why-most-music-producers-never-make-money/)
+- ["How Mix Engineers Get Clients"](/posts/how-mix-engineers-get-clients/)
+- ["The Biggest Mistake Beginner Mix Engineers Make"](/posts/biggest-mistake-beginner-mix-engineers-make/)
