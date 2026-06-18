@@ -1,6 +1,6 @@
 +++
 title = "Can You Make a Living as a Music Producer?"
-date = "2026-06-19"
+date = "2026-06-18"
 draft = false
 
 categories = ["Income & Freelancing", "Music Production"]
