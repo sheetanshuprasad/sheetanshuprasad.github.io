@@ -1,7 +1,7 @@
 +++
 title = "How Much Should a Beginner Mix Engineer Charge?"
 draft = false
-cover = { image = "/images/how-much-should-a-beginner-mix-engineer-charge" }
+cover = { image = "/images/how-much-should-a-beginner-mix-engineer-charge.jpeg" }
 categories = ["Mixing", "Income & Freelancing"]
 tags = ["mixing", "pricing", "clients", "freelancing"]
 +++
