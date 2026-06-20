@@ -5,7 +5,7 @@ draft = false
 categories = ["Music Production", "Income & Freelancing"]
 tags = ["beat-selling", "clients", "music-business", "freelancing"]
 +++
-
+cover = { image = "/images/beat-selling-vs-client-work.jpeg" }
 
 Many producers eventually face an important question: should they focus on selling beats or working directly with clients?
 
