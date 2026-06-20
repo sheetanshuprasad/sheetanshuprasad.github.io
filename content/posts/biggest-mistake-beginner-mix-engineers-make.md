@@ -3,7 +3,7 @@
 title = "The Biggest Mistake Beginner Mix Engineers Make"
 date = "2026-06-17"
 draft = false
-
+cover = { image = "/images/mixing_engineer_frustated_at_.jpeg" }
 categories = ["Mixing & Mastering"]
 tags = ["mixing", "audio-engineering", "mix-engineer"]
 +++
