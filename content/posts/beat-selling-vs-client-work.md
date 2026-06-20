@@ -6,7 +6,6 @@ categories = ["Music Production", "Income & Freelancing"]
 tags = ["beat-selling", "clients", "music-business", "freelancing"]
 +++
 
-# Beat Selling vs Client Work: Which Is Better?
 
 Many producers eventually face an important question: should they focus on selling beats or working directly with clients?
 
