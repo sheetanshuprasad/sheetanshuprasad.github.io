@@ -1,6 +1,6 @@
 +++
 title = "Why Most Home Studios Sound Bad"
-date = "2026-06-19"
+date = "2026-06-20"
 draft = false
 cover = { image = "/images/why-most-home-studios-sound-bad.jpeg" }
 categories = ["Home Studio", "Music Production"]
