@@ -8,7 +8,6 @@ categories = ["Mixing & Mastering"]
 tags = ["mixing", "audio-engineering", "mix-engineer"]
 +++
 
-# The Biggest Mistake Beginner Mix Engineers Make
 
 Many beginner mix engineers believe better plugins will automatically improve their mixes.
 
