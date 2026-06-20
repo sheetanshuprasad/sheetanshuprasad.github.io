@@ -2,13 +2,11 @@
 date = '2026-06-15T22:09:46+05:30'
 draft = false
 title = 'How Mix Engineers Get Clients'
-
+cover = { image = "/images/how-mix-engineers-get-clients.jpeg" }
 categories = ["Income & Freelancing", "Mixing"]
 tags = ["mixing", "clients", "freelancing", "audio-engineering"]
 
 +++
-
-# How Mix Engineer Get CLients
 
 
 Most beginners think mixing clients come from social media followers.
