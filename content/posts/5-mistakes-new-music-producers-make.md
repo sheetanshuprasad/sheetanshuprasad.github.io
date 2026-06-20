@@ -1,12 +1,10 @@
 +++
 title = "5 Mistakes New Music Producers Make"
 draft = false
-
+cover = { image = "/images/5-mistakes-beginner-music-producer-make.jpeg" }
 categories = ["Music Production"]
 tags = ["music-production", "beginner", "mistakes", "learning"]
 +++
-
-# 5 Mistakes New Music Producers Make
 
 Every producer makes mistakes when starting out. The good news is that most of these mistakes can be avoided once you recognize them.
 
