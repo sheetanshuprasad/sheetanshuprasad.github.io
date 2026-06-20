@@ -6,7 +6,6 @@ categories = ["Mixing", "Income & Freelancing"]
 tags = ["mixing", "pricing", "clients", "freelancing"]
 +++
 
-# How Much Should a Beginner Mix Engineer Charge?
 
 One of the most common questions new mix engineers ask is how much they should charge for their services.
 
