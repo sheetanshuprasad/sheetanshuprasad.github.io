@@ -1,12 +1,10 @@
 +++
 title = "7 Ways Music Producers Can Earn Money"
 draft = false
-
+cover = { image = "/images/7-ways-music-producers-can-earn-money.jpeg" }
 categories = ["Music Production", "Income & Freelancing"]
 tags = ["music-production", "income", "freelancing", "music-business"]
 +++
-
-# 7 Ways Music Producers Can Earn Money
 
 Many producers assume that selling beats is the only way to make money. In reality, successful producers often build multiple income streams.
 
