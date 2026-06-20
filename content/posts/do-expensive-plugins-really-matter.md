@@ -2,7 +2,7 @@
 title = "Do Expensive Plugins Really Matter?"
 date = "2026-06-19"
 draft = false
-cover = { image = "/images/expensive_plugin.png" }
+cover = { image = "/images/expensive_plugin.jpeg" }
 categories = ["Mixing & Mastering", "Music Production"]
 tags = ["plugins", "mixing", "music-production", "audio-engineering"]
 +++
