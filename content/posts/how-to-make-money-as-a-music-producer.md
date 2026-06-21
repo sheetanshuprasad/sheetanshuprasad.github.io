@@ -6,7 +6,6 @@ categories = ["Music Production", "Income & Freelancing"]
 tags = ["music-production", "income", "freelancing", "music-business", "career"]
 +++
 
-# How to Make Money as a Music Producer
 
 One of the biggest questions aspiring producers ask is whether it is actually possible to earn money from music production.
 
