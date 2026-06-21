@@ -6,7 +6,7 @@ categories = ["Mixing", "Mastering"]
 tags = ["mixing", "mastering", "audio-engineering", "music-production"]
 +++
 
-# Mixing vs Mastering: What's the Difference?
+
 
 Many beginners use the terms mixing and mastering interchangeably. While both are important stages of music production, they serve different purposes.
 
