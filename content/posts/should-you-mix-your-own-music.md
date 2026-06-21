@@ -6,7 +6,6 @@ categories = ["Mixing", "Music Production"]
 tags = ["mixing", "music-production", "home-studio", "audio-engineering"]
 +++
 
-# Should You Mix Your Own Music?
 
 Many producers wonder whether they should mix their own songs or hire a dedicated mix engineer.
 
