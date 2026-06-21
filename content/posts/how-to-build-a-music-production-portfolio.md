@@ -6,7 +6,7 @@ categories = ["Music Production", "Income & Freelancing"]
 tags = ["portfolio", "clients", "music-production", "freelancing"]
 +++
 
-# How to Build a Music Production Portfolio
+
 
 A strong portfolio is one of the most important tools for attracting music production clients.
 
