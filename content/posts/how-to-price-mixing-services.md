@@ -6,7 +6,6 @@ categories = ["Mixing", "Income & Freelancing"]
 tags = ["mixing", "pricing", "clients", "freelancing"]
 +++
 
-# How to Price Mixing Services
 
 One of the most difficult decisions for new mix engineers is deciding how much to charge.
 
