@@ -9,7 +9,7 @@ tags = ["mixing", "audio-engineering", "mix-engineer"]
 +++
 
 
-# The Biggest Mistake Beginner Mix Engineers Make
+
 
 When people start learning mixing, they often believe the secret to professional results lies in expensive plugins, advanced techniques, or complicated signal chains.
 
