@@ -7,7 +7,7 @@ categories = ["Mixing & Mastering"]
 tags = ["mixing", "audio-engineering", "learning", "music-production"]
 +++
 
-# How Long Does It Take to Learn Mixing?
+
 
 One of the most common questions beginners ask is how long it takes to become good at mixing.
 
