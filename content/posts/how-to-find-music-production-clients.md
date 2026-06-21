@@ -6,7 +6,6 @@ categories = ["Music Production", "Income & Freelancing"]
 tags = ["clients", "music-production", "freelancing", "business"]
 +++
 
-# How to Find Music Production Clients
 
 One of the biggest challenges for new producers is finding clients.
 
