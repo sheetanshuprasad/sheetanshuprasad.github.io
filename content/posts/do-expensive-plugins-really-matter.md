@@ -7,7 +7,6 @@ categories = ["Mixing & Mastering", "Music Production"]
 tags = ["plugins", "mixing", "music-production", "audio-engineering"]
 +++
 
-# Do Expensive Plugins Really Matter?
 
 One of the biggest questions beginners ask is whether expensive plugins are necessary to create professional music and mixes.
 
