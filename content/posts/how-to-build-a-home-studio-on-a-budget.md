@@ -6,7 +6,7 @@ categories = ["Music Production"]
 tags = ["home-studio", "music-production", "recording", "budget"]
 +++
 
-# How to Build a Home Studio on a Budget
+
 
 Many beginners believe they need expensive equipment to create professional music. In reality, a functional home studio can be built gradually without spending a fortune.
 
