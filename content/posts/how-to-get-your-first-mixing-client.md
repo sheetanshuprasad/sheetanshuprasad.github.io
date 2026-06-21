@@ -6,7 +6,7 @@ categories = ["Mixing", "Income & Freelancing"]
 tags = ["mixing", "clients", "freelancing", "audio-engineering"]
 +++
 
-# How to Get Your First Mixing Client
+
 
 One of the biggest challenges for new mix engineers is getting that first paying client.
 
