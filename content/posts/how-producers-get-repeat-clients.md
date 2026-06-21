@@ -6,7 +6,6 @@ categories = ["Music Production", "Income & Freelancing"]
 tags = ["clients", "freelancing", "music-production", "business"]
 +++
 
-# How Producers Get Repeat Clients
 
 Finding your first client is important. However, building a sustainable music business depends on getting repeat clients.
 
