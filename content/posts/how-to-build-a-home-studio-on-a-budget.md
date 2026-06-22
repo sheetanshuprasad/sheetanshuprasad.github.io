@@ -1,7 +1,7 @@
 +++
 title = "How to Build a Home Studio on a Budget"
 draft = false
-
+cover = { image = "/images/how to build a home studio on budget.jpeg" }
 categories = ["Music Production"]
 tags = ["home-studio", "music-production", "recording", "budget"]
 +++
