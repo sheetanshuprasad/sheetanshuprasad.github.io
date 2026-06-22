@@ -1,7 +1,7 @@
 +++
 title = "How to Build a Music Production Portfolio"
 draft = false
-
+cover = { image = "/images/how to build a music production portfolio.jpeg" }
 categories = ["Music Production", "Income & Freelancing"]
 tags = ["portfolio", "clients", "music-production", "freelancing"]
 +++
