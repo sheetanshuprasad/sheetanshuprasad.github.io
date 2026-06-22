@@ -1,7 +1,7 @@
 +++
 title = "How Producers Get Repeat Clients"
 draft = false
-
+cover = { image = "/images/how to get repeat clients.jpeg" }
 categories = ["Music Production", "Income & Freelancing"]
 tags = ["clients", "freelancing", "music-production", "business"]
 +++
