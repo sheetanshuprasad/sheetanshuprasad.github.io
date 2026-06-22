@@ -1,7 +1,7 @@
 +++
 title = "How to Find Music Production Clients"
 draft = false
-
+cover = { image = "/images/how to find music production clients.jpeg" }
 categories = ["Music Production", "Income & Freelancing"]
 tags = ["clients", "music-production", "freelancing", "business"]
 +++
