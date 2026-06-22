@@ -1,7 +1,7 @@
 +++
 title = "Mixing vs Mastering: What's the Difference?"
 draft = false
-
+cover = { image = "/images/mixing-vs-mastering.png" }
 categories = ["Mixing", "Mastering"]
 tags = ["mixing", "mastering", "audio-engineering", "music-production"]
 +++
