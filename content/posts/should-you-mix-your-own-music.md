@@ -1,7 +1,7 @@
 +++
 title = "Should You Mix Your Own Music?"
 draft = false
-
+cover = { image = "/images/should you mix your own songs.png" }
 categories = ["Mixing", "Music Production"]
 tags = ["mixing", "music-production", "home-studio", "audio-engineering"]
 +++
