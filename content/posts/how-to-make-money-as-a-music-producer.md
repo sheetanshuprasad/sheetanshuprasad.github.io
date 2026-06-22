@@ -1,7 +1,7 @@
 +++
 title = "How to Make Money as a Music Producer"
 draft = false
-cover = { image = "/images/how to make money as a music producer.png" }
+cover = { image = "/images/how to make money as a music producer2.png" }
 categories = ["Music Production", "Income & Freelancing"]
 tags = ["music-production", "income", "freelancing", "music-business", "career"]
 +++
