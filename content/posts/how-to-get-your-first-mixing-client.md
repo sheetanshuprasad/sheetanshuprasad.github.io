@@ -1,7 +1,7 @@
 +++
 title = "How to Get Your First Mixing Client"
 draft = false
-
+cover = { image = "/images/how to get your first mixing client.jpeg" }
 categories = ["Mixing", "Income & Freelancing"]
 tags = ["mixing", "clients", "freelancing", "audio-engineering"]
 +++
