@@ -1,7 +1,7 @@
 +++
 title = "How to Price Mixing Services"
 draft = false
-
+cover = { image = "/images/how to price mixing services.png" }
 categories = ["Mixing", "Income & Freelancing"]
 tags = ["mixing", "pricing", "clients", "freelancing"]
 +++
