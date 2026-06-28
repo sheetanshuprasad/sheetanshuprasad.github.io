@@ -1,0 +1,9 @@
+.profile .buttons .button {
+    background: #0a66c2;
+    color: white !important;
+    border: none;
+}
+
+.profile .buttons .button:hover {
+    background: #004182;
+}

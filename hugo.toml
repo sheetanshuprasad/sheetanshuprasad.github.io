@@ -1,6 +1,6 @@
 baseURL = "https://sheetanshuprasad.github.io/"
 languageCode = "en-us"
-title = "Sound Progression"
+title = "MusicMonetized"
 theme = "PaperMod"
 
 [pagination]
@@ -13,14 +13,27 @@ ShowShareButtons = true
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
 
+defaultTheme = "dark"
+disableThemeToggle = true
+
+label = { text = "MusicMonetized", icon = "/logoo.png", iconHeight = 35 }
+
 [params.profileMode]
 enabled = true
-title = "Sound Progression"
-subtitle = "Learn Music. Build a Career. Helping producers, mix engineers and mastering engineers build real-world skills and income."
+title = "MusicMonetized"
+subtitle = "Learn Music. Build a Career. Helping music producers build skills, clients and income."
 
 [[params.profileMode.buttons]]
 name = "Latest Articles"
 url = "/posts/"
+
+[[params.profileMode.buttons]]
+name = "About"
+url = "/about/"
+
+[[params.profileMode.buttons]]
+name = "Categories"
+url = "/categories/"
 
 [menu]
 
@@ -53,3 +66,7 @@ url = "/posts/"
   name = "Categories"
   url = "/categories/"
   weight = 40
+
+[params.homeInfoParams]
+Title = "Learn Music. Build a Career."
+Content = "Helping music producers earn more, get clients, market their music and build sustainable careers."
