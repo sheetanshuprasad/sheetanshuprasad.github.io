@@ -20,8 +20,8 @@ label = { text = "Music Monetized", icon = "/logoo.png", iconHeight = 35 }
 
 [params.profileMode]
 enabled = true
-title = "Sound Progression"
-subtitle = "Music Production, Mixing & Mastering, Freelancing, Home Studios, and Real-World Career Advice for Modern Music Creators."
+title = "Music Monetized"
+subtitle = "Learn Music. Build a Career. Helping music producers build skills, clients and income."
 
 [[params.profileMode.buttons]]
 name = "Latest Articles"
@@ -69,4 +69,4 @@ url = "/categories/"
 
 [params.homeInfoParams]
 Title = "Learn Music. Build a Career."
-Content = "Music Production, Mixing, Mastering, Freelancing, Home Studios, and Real-World Music Career Advice."
+Content = "Helping music producers earn more, get clients, market their music and build sustainable careers."
