@@ -1,6 +1,6 @@
 baseURL = "https://sheetanshuprasad.github.io/"
 languageCode = "en-us"
-title = "Music Monetized"
+title = "MusicMonetized"
 theme = "PaperMod"
 
 [pagination]
@@ -16,11 +16,11 @@ ShowBreadCrumbs = true
 defaultTheme = "dark"
 disableThemeToggle = true
 
-label = { text = "Music Monetized", icon = "/logoo.png", iconHeight = 35 }
+label = { text = "MusicMonetized", icon = "/logoo.png", iconHeight = 35 }
 
 [params.profileMode]
 enabled = true
-title = "Music Monetized"
+title = "MusicMonetized"
 subtitle = "Learn Music. Build a Career. Helping music producers build skills, clients and income."
 
 [[params.profileMode.buttons]]
