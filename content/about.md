@@ -3,9 +3,9 @@ title = "About"
 draft = false
 +++
 
-About Music Monetized
+About MusicMonetized
 
-Music Monetized is a blog dedicated to helping music producers, mix engineers and mastering engineers build real skills and real careers.
+MusicMonetized is a blog dedicated to helping music producers, mix engineers and mastering engineers build real skills and real careers.
 
 The goal is simple:
 
@@ -14,4 +14,4 @@ The goal is simple:
 - Build a home studio
 - Earn income through music
 
-Whether you're just starting out or trying to get your first paying client, Music Monetized is here to help you move forward.
+Whether you're just starting out or trying to get your first paying client, MusicMonetized is here to help you move forward.
