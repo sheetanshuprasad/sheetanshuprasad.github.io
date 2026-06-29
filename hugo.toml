@@ -67,6 +67,12 @@ url = "/categories/"
   url = "/categories/"
   weight = 40
 
+  [[menu.main]]
+   identifier = "disclaimer"
+   name = "Disclaimer"
+   url = "/disclaimer/"
+   weight = 6
+
 [params.homeInfoParams]
 Title = "Learn Music. Build a Career."
 Content = "Helping music producers earn more, get clients, market their music and build sustainable careers."
