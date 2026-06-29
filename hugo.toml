@@ -37,45 +37,23 @@ url = "/categories/"
 
 [menu]
 
+[[menu.main]]
+identifier = "categories"
+name = "Categories"
+url = "/categories/"
+weight = 10
 
-  
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 20
 
-  [[menu.main]]
-  identifier = "about"
-  name = "About"
-  url = "/about/"
-  weight = 10
-
-  [[menu.main]]
-  identifier = "author"
-  name = "Author"
-  url = "/about-the-author/"
-  weight = 15
-  
-  [[menu.main]]
-  identifier = "contact"
-  name = "Contact"
-  url = "/contact/"
-  weight = 20
-
-  [[menu.main]]
-  identifier = "privacy"
-  name = "Privacy Policy"
-  url = "/privacy-policy/"
-  weight = 30
-
-  [[menu.main]]
-  identifier = "categories"
-  name = "Categories"
-  url = "/categories/"
-  weight = 40
-
-  [[menu.main]]
-   identifier = "disclaimer"
-   name = "Disclaimer"
-   url = "/disclaimer/"
-   weight = 6
-
+[[menu.main]]
+identifier = "contact"
+name = "Contact"
+url = "/contact/"
+weight = 30
 [params.homeInfoParams]
 Title = "🎵 Build a Career in Music"
 
