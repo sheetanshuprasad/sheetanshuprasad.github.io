@@ -19,7 +19,7 @@ disableThemeToggle = true
 label = { text = "MusicMonetized", icon = "/logoo.png", iconHeight = 35 }
 
 [params.profileMode]
-enabled = true
+enabled = false
 title = "MusicMonetized"
 subtitle = "Learn Music. Build a Career. Helping music producers build skills, clients and income."
 
