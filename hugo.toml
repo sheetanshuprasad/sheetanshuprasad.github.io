@@ -74,5 +74,18 @@ url = "/categories/"
    weight = 6
 
 [params.homeInfoParams]
-Title = "Learn Music. Build a Career."
-Content = "Helping music producers earn more, get clients, market their music and build sustainable careers."
+Title = "🎵 Build a Career in Music"
+
+Content = """
+Most websites teach you **how to make music**.
+
+**MusicMonetized teaches you how to make music and make a living from it.**
+
+Whether you're a music producer, mixing engineer, mastering engineer, or independent artist, you'll learn how to:
+
+-  Find music clients
+-  Improve your production and mixing
+-  Market your music
+-  Build multiple income streams
+-  Create a sustainable music career
+"""
