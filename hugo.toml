@@ -2,7 +2,7 @@ baseURL = "https://musicmonetized.com/"
 languageCode = "en-us"
 title = "MusicMonetized"
 theme = "PaperMod"
-
+enableRobotsTXT = true
 [pagination]
 pagerSize = 10
 keywords = ["music production", "mixing", "mastering", "music business", "music marketing", "mix engineer", "music producer", "audio engineering", "home studio", "freelancing"]
