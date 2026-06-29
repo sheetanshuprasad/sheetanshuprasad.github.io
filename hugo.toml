@@ -38,11 +38,7 @@ url = "/categories/"
 [menu]
 
 
-  [[menu.main]]
-  identifier = "start"
-  name = "Start Here"
-  url = "/start-here/"
-  weight = 1
+  
 
   [[menu.main]]
   identifier = "about"
