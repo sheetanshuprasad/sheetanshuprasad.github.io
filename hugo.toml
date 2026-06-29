@@ -14,6 +14,7 @@ ShowReadingTime = true
 ShowShareButtons = false
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
+fuseOpts = true
 
 defaultTheme = "dark"
 disableThemeToggle = true
@@ -38,6 +39,12 @@ name = "Categories"
 url = "/categories/"
 
 [menu]
+
+[[menu.main]]
+identifier = "search"
+name = "Search"
+url = "/search/"
+weight = 5
 
 [[menu.main]]
 identifier = "categories"
