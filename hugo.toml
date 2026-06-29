@@ -9,7 +9,7 @@ pagerSize = 10
 [params]
 description = "Learn Music. Build a Career."
 ShowReadingTime = true
-ShowShareButtons = true
+ShowShareButtons = false
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
 
