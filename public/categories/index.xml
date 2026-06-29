@@ -1,17 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on Sound Progression</title>
+    <title>Categories on MusicMonetized</title>
     <link>https://sheetanshuprasad.github.io/categories/</link>
-    <description>Recent content in Categories on Sound Progression</description>
+    <description>Recent content in Categories on MusicMonetized</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2026 22:09:46 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://sheetanshuprasad.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Music Production</title>
+      <link>https://sheetanshuprasad.github.io/categories/music-production/</link>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://sheetanshuprasad.github.io/categories/music-production/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Home Studio</title>
+      <link>https://sheetanshuprasad.github.io/categories/home-studio/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://sheetanshuprasad.github.io/categories/home-studio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mixing &amp; Mastering</title>
+      <link>https://sheetanshuprasad.github.io/categories/mixing--mastering/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://sheetanshuprasad.github.io/categories/mixing--mastering/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Income &amp; Freelancing</title>
       <link>https://sheetanshuprasad.github.io/categories/income--freelancing/</link>
-      <pubDate>Mon, 15 Jun 2026 22:09:46 +0530</pubDate>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://sheetanshuprasad.github.io/categories/income--freelancing/</guid>
       <description></description>
     </item>
@@ -27,13 +48,6 @@
       <link>https://sheetanshuprasad.github.io/categories/mastering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://sheetanshuprasad.github.io/categories/mastering/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Music Production</title>
-      <link>https://sheetanshuprasad.github.io/categories/music-production/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sheetanshuprasad.github.io/categories/music-production/</guid>
       <description></description>
     </item>
   </channel>
