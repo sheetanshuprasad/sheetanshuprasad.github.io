@@ -6,8 +6,7 @@ theme = "PaperMod"
 [pagination]
 pagerSize = 10
 
-[outputs]
-home = ["HTML", "RSS", "JSON"]
+
 
 [params]
 description = "Learn Music. Build a Career."
@@ -73,3 +72,5 @@ Whether you're a music producer, mixing engineer, mastering engineer, or indepen
 -  Build multiple income streams
 -  Create a sustainable music career
 """
+[outputs]
+home = ["HTML", "RSS", "JSON"]
