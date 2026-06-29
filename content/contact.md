@@ -46,7 +46,7 @@ If you notice outdated information, broken links, or anything that could be impr
 
 **Email**
 
-[sheetanshumuisc@gmail.com](mailto:sheetanshumusic@gmail.com)
+[contact@musicmonetized.com](mailto:contact@musicmonetized.com)
 
 
 
