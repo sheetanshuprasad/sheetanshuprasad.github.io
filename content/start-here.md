@@ -4,9 +4,10 @@ date = "2026-06-29"
 draft = false
 +++
 
-Welcome to **MusicMonetized**.
+> **New to MusicMonetized?**
+> Start with these carefully selected guides to learn music production, attract clients, grow your audience, and build a sustainable career in music.
 
-If you're new here, this page will help you find the right articles based on your goals.
+
 
 ## I Want to Make Money With Music
 
