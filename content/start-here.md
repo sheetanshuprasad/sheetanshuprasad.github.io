@@ -3,7 +3,6 @@ title = "Start Here"
 date = "2026-06-29"
 draft = false
 +++
-# Start Here
 
 Welcome to **MusicMonetized**.
 
