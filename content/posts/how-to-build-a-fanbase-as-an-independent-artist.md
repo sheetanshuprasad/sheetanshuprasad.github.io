@@ -8,7 +8,7 @@ categories = ["Music Business"]
 cover = { image = "/images/How to Build a Fanbase as an Independent Artist.png" }
 +++
 
-# How to Build a Fanbase as an Independent Artist
+
 
 Many independent artists spend years trying to gain more streams, followers, and subscribers. While those numbers are important, they don't always translate into a successful music career.
 
