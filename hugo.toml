@@ -41,6 +41,12 @@ url = "/categories/"
 [menu]
 
 [[menu.main]]
+identifier = "start"
+name = "Start Here"
+url = "/start-here/"
+weight = 8
+
+[[menu.main]]
 identifier = "search"
 name = "Search"
 url = "/search/"
