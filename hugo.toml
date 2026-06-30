@@ -63,21 +63,25 @@ identifier = "contact"
 name = "Contact"
 url = "/contact/"
 weight = 30
+```toml
 [params.homeInfoParams]
-Title = "🎵 Build a Career in Music"
+Title = "🎵 Turn Your Music Skills Into a Career"
 
 Content = """
-Most websites teach you **how to make music**.
+Most music websites teach you **how to produce music**.
 
-**MusicMonetized teaches you how to make music and make a living from it.**
+**MusicMonetized teaches you how to produce great music, attract clients, grow your audience, and build a sustainable music career.**
 
-Whether you're a music producer, mixing engineer, mastering engineer, or independent artist, you'll learn how to:
+Whether you're a music producer, mixing engineer, mastering engineer, songwriter, or independent artist, you'll learn how to:
 
--  Find music clients
--  Improve your production and mixing
--  Market your music
+-  Find high-paying music clients
+-  Improve your production and mixing skills
+-  Promote your music and grow your audience
+-  Increase your Spotify listeners and fanbase
 -  Build multiple income streams
--  Create a sustainable music career
+-  Turn your passion into a long-term career
 """
+```
+
 [outputs]
 home = ["HTML", "RSS", "JSON"]
