@@ -65,7 +65,7 @@ url = "/contact/"
 weight = 30
 ```toml
 [params.homeInfoParams]
-Title = "🎵 Turn Your Music Skills Into a Career"
+Title = "Turn Your Music Skills Into a Career"
 
 Content = """
 Most music websites teach you **how to produce music**.
