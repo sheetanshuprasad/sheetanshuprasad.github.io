@@ -16,7 +16,9 @@ Some hope to earn a little extra money on the side, while others want to build a
 
 The good news is that making money as a music producer is possible.
 
-The challenge is that most people focus on only one income source while successful producers often combine several.
+The challenge is that most people focus on only one income source while successful producers often combine several. They also invest time in building an audience that supports their work over the long term. If you haven't started yet, check out our guide on [How to Build a Fanbase as an Independent Artist](/posts/how-to-build-a-fanbase-as-an-independent-artist/).
+
+In this guide, we'll explore practical ways music producers can earn money and build a sustainable career.
 
 ## The Biggest Misconception
 
