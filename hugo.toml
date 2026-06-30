@@ -64,6 +64,7 @@ name = "Contact"
 url = "/contact/"
 weight = 30
 ```toml
+
 [params.homeInfoParams]
 Title = "Turn Your Music Skills Into a Career"
 
@@ -74,14 +75,13 @@ Most music websites teach you **how to produce music**.
 
 Whether you're a music producer, mixing engineer, mastering engineer, songwriter, or independent artist, you'll learn how to:
 
--  Find high-paying music clients
--  Improve your production and mixing skills
--  Promote your music and grow your audience
--  Increase your Spotify listeners and fanbase
--  Build multiple income streams
--  Turn your passion into a long-term career
+- Find high-paying music clients
+- Improve your production and mixing skills
+- Promote your music and grow your audience
+- Increase your Spotify listeners and fanbase
+- Build multiple income streams
+- Turn your passion into a long-term career
 """
-```
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
